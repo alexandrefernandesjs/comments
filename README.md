@@ -1,6 +1,7 @@
 # Comentarios
 
-<p>Este é um pequeno projeto de CRUD de comentarios</p>
+<p>Este é um pequeno projeto de CRUD de comentarios, utilizando VueJs, Python Flask, Sqlalchemy e Postgres.
+</p>
 
 
 
